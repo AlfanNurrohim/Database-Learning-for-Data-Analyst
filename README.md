@@ -6,8 +6,7 @@ This repository is the product of my dedication to understanding database manage
 
 You can also find explanations about this database through the website I have created on Notion:
 
-1. [https://loud-termite-e71.notion.site/Basics-Database-4d10eb21cdb744dba535ca49e23515e3?pvs=4](https://www.notion.so/Basics-Database-4d10eb21cdb744dba535ca49e23515e3?pvs=21)
-2. [https://loud-termite-e71.notion.site/Data-Analyst-Database-3798aaffa44946048813d0bce30f7f5a?pvs=4](https://www.notion.so/Data-Analyst-Database-3798aaffa44946048813d0bce30f7f5a?pvs=21)
+1. https://www.notion.so/My-Portfolio-Data-Analyst-b6887ac9d2f0494cad6705ae57ef2f44?pvs=4
 
 # **Contents**
 
