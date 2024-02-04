@@ -6,7 +6,7 @@ This repository is the product of my dedication to understanding database manage
 
 You can also find explanations about this database through the website I have created on Notion:
 
-1. https://www.notion.so/My-Portfolio-Data-Analyst-b6887ac9d2f0494cad6705ae57ef2f44?pvs=4
+https://www.notion.so/My-Portfolio-Data-Analyst-b6887ac9d2f0494cad6705ae57ef2f44?pvs=4
 
 # **Contents**
 
